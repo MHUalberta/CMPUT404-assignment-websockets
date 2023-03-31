@@ -59,3 +59,12 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+
+
+References
+========================
+
+Referenced Hindle's implementation of websocketing handling (more specifically the read_ws
+and subscribe_websocket functions) as its already perfect and there isn't much room to
+deviate from it.
+  Source: https://github.com/abramhindle/WebSocketsExamples/blob/master/chat.py
