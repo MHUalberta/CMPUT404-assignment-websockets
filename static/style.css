@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    background-color: rgb(245, 235, 215);
+}
+
+#c-contain {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50%;
+    width: 50%;
+}
+
+
+#tools {
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+    align-items: center;
+}
